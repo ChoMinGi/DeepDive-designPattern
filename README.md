@@ -1,5 +1,5 @@
 # 서론
-<img width="1338" alt="image" src="https://github.com/user-attachments/assets/89f7946b-2876-49d5-9f0f-7a7d0a27058e">
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/89f7946b-2876-49d5-9f0f-7a7d0a27058e">
 
 대금 결제 내역을 관리할 때, 백엔드 시스템에서는 **'전자상거래 등에서의 소비자 보호에 관한 법률'에 따라 5년 동안 해당 정보를 보관**해야한다. 따라서 5년간의 내용저장과 기간이 지난 데이터는 자동으로 삭제되도록 시스템을 구성해야하는데 그 중 내용 저장에 관련한 api에 중점적으로 작성해보았다.
 
@@ -34,6 +34,9 @@ Coupon과 GiftCard와 같은 결제와 관련된 엔티티들이 포함된 도�
 - 개인정보보호법에 의한 결제내역 저장을 위한 도메인
 
 # 본론
+## 기존 도메인 시나리오
+<img width="899" alt="image" src="https://github.com/user-attachments/assets/ab1edadd-4273-465e-a6a8-37393a60f9dd">
+
 
 ## 결제수단_결제_결제내역 저장 케이스
 ### [전략 패턴 + 레지스트리 패턴](https://github.com/ChoMinGi/DeepDive-designPattern/tree/main/v1_%EC%A0%84%EB%9E%B5%2B%EB%A0%88%EC%A7%80%EC%8A%A4%ED%84%B0)
