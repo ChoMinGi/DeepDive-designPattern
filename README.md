@@ -30,7 +30,7 @@ Coupon과 GiftCard와 같은 결제와 관련된 엔티티들이 포함된 도�
 # 본론
 
 ## 결제수단_결제_결제내역 저장 케이스
-- 전략 패턴 + 레지스트리 패턴
-- 전략 패턴 + (단순)팩토리 패턴
-- 팩토리 메서드 패턴
-- 템플릿 메서드 패턴
+### [전략 패턴 + 레지스트리 패턴](https://github.com/ChoMinGi/DeepDive-designPattern/tree/main/v1_%EC%A0%84%EB%9E%B5%2B%EB%A0%88%EC%A7%80%EC%8A%A4%ED%84%B0)
+### [전략 패턴 + (단순)팩토리 패턴](https://github.com/ChoMinGi/DeepDive-designPattern/tree/main/v2_%EC%A0%84%EB%9E%B5%2B%ED%8C%A9%ED%86%A0%EB%A6%AC)
+### [팩토리 메서드 패턴](https://github.com/ChoMinGi/DeepDive-designPattern/tree/main/v3_%ED%8C%A9%ED%86%A0%EB%A6%AC%EB%A9%94%EC%84%9C%EB%93%9C)
+### [템플릿 메서드 패턴](https://github.com/ChoMinGi/DeepDive-designPattern/tree/main/v4_%ED%85%9C%ED%94%8C%EB%A6%BF%EB%A9%94%EC%84%9C%EB%93%9C)
