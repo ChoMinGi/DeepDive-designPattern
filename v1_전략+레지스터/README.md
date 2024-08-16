@@ -1,3 +1,7 @@
+## 흐름도
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/f5a7e7a4-f9bd-4ac9-bdd7-44fd096d486c">
+전략 클래스에 등록된 전략들을 가져와서 StrategyMap 에 저장해두고 사용하는 레지스트리 패턴에 변환 전략을 전략 패턴에 구현하였다.
+
 ## 설계 관점
 1. 결제 수단은 기프트 카드와 쿠폰만 존재
 2. 트랜잭션의 특성 보다는 엔티티의 개수가 적기에 간단히 구현하고자 판단
